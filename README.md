@@ -22,7 +22,7 @@ Blockchain workshop @ KLE technological university
 - Bitcoin scaling solutions
 
 
-# Session - 3:
+## Session - 3:
 - Ethereum background
 - Basics of Ethereum
 - Mining and consensus algorithm
