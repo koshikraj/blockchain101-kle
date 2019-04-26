@@ -1,6 +1,8 @@
 # blockchain101-kle
 Blockchain workshop @ KLE technological university
 
+Slides of all 4 sessions: https://drive.google.com/drive/folders/1hdkEqhWiESs5WYEtmaZj8zVjGtkped_F?usp=sharing
+
 ## Agenda
 
 ## Session - 1:
