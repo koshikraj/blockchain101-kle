@@ -7,7 +7,7 @@ Make sure that you have a latest version of `nodejs` and `npm`. Here is a [insta
 
 ## Install local blockchain (Ganache)
 
-`npm install ganache-cli web3@0.20.2`
+`sudo npm install -g ganache-cli web3@0.20.2`
 
 
 ## Install mainnet/testnet blockchain client (Optional)
@@ -44,7 +44,7 @@ Truffle framework makes the development and deployment process smoother by creat
 The the framework will help to easily create and deploy the DApp.
 
 ```
-npm install -g truffle
+sudo npm install -g truffle
 
 ```
 
