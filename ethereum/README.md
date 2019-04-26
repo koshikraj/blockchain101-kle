@@ -1,3 +1,9 @@
+# P2P lending DApp:  
+
+```
+git clone https://github.com/koshikraj/p2plending
+```
+
 # Setup the Ethereum ecosystem
 
 The Ethereum  ecosystem can be setup locally for development purpose or we can connect to a real blockchain.
